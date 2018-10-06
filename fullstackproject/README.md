@@ -11,7 +11,10 @@ a few steps -
 
 3. Inside the static dir, run "npm run watch"
 
-if you want to get a glimpse of how backend will be set try this
-4.Create virtual environment
-5.install flask by "pip3 install flask"
-6.go to server directory and execute "python server.py"
+if you want to get a glimpse of how backend will be set try this,
+
+4. Create a virtual environment
+
+5. Install flask by using the command "pip3 install flask"
+
+6. Go to the server directory and execute "python server.py"
